@@ -2424,6 +2424,7 @@
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2023-12-07 02:16:03 +0800"
+<<<<<<< HEAD
     },
     "done": true
   },
@@ -3536,6 +3537,8 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2023-12-20 22:23:39 +0800"
+=======
+>>>>>>> 8ca917099a24a948719889bae7b21f7afe8d9d24
     },
     "done": true
   },
